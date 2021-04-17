@@ -1,8 +1,8 @@
-# lxc-Privilage-Escalation
+# lxc-Privilege-Escalation
 
 ## Description
 
-lxc Privilage Escalation Is An Automation Tool To Exploit The Linux xlc Group Misconfiguration Which Leads To Get High Previlage (root) In The Compromised Server Or Machine
+lxc Privilage Escalation Is An Automation Tool To Exploit The Linux xlc Group Misconfiguration Which Leads To Get High Previlege (root) In The Compromised Server Or Machine
 
 ## Requitements
 
@@ -21,13 +21,13 @@ lxc Privilage Escalation Is An Automation Tool To Exploit The Linux xlc Group Mi
 ## Wiki
 - Clone The Repository:
 
-`git clone https://github.com/Cyber-Guy1/lxc-Privilage-Escalation.git`
+`git clone https://github.com/Cyber-Guy1/lxc-Privilege-Escalation.git`
 
 - Or Download It As A zip File
 
 - Get Into The Cloned Repository:
 
-`cd lxc-Privilage-Escalation`
+`cd lxc-Privilege-Escalation`
 
 - Give It The Right Permission:
 
